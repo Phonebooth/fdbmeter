@@ -1,4 +1,4 @@
-module github.com/masih/fdbmeter
+module github.com/Phonebooth/fdbmeter
 
 go 1.20
 
