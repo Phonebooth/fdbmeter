@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/masih/fdbmeter"
+	"github.com/Phonebooth/fdbmeter"
 	"go.opentelemetry.io/otel/attribute"
 )
 
